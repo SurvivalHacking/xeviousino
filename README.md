@@ -13,6 +13,11 @@ Portiamo il mito di Xevious in formato tascabile!
 Grazie al lavoro di Marco Prunca, tutti noi potremo assemblare un Mini Arcade basato su ESP32-S3, con audio potenziato e un case stampato in 3D ispirato al cabinato originale Namco.
 Vedremo l'assemblaggio hardware, la configurazione su Arduino IDE e come caricare le ROM nella memoria flash tramite LittleFS. Un progetto completo tra elettronica, stampa 3D e puro retrogaming! E non solo Xevious !
 
+## 👨‍💻 Programmazione modulo
+
+* Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installaEsp32.php?progetto=xeviousino
+
+---
 
 ---
 ## 🎥 Related video / Video correlato
@@ -26,5 +31,19 @@ Vedremo l'assemblaggio hardware, la configurazione su Arduino IDE e come caricar
 * S3 Mini: https://is.gd/S3MINI
 * DAC MAX98357 (Big Chip): https://s.click.aliexpress.com/e/_c4PClGOp
 * Speaker 4 ohm: https://s.click.aliexpress.com/e/_c3hNHMZr
+
+
+---
+## 🧾 Licenza
+
+Questo progetto è distribuito con licenza
+**Creative Commons – Attribuzione – Non Commerciale 4.0 Internazionale (CC BY-NC 4.0)**.
+
+Puoi condividerlo e modificarlo liberamente, **citando l’autore**
+(Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) e **senza scopi commerciali**.
+
+🔗 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 
 
