@@ -34,16 +34,23 @@ Vedremo l'assemblaggio hardware, la configurazione su Arduino IDE e come caricar
 
 
 ---
-## 🧾 Licenza
+## 🧾 License / Licenza
 
 Questo progetto è distribuito con licenza
 **Creative Commons – Attribuzione – Non Commerciale 4.0 Internazionale (CC BY-NC 4.0)**.
 
 Puoi condividerlo e modificarlo liberamente, **citando l’autore**
-(Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) e **senza scopi commerciali**.
+(Marco Prunca e Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) e **senza scopi commerciali**.
 
 🔗 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
+This project is licensed under
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+You are free to share and modify it, **provided you credit the authors**
+(Marco Prunca and Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) and **for non-commercial purposes**.
+
+🔗 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
