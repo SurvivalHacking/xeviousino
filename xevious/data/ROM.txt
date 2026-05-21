@@ -1,0 +1,8 @@
+Mettere in questa cartella esattamente queste ROM con questi nomi:
+
+Galaga (U).nes
+Gyruss (USA).nes
+Lifeforce (U).nes
+Terra Cresta (Japan).nes
+Xevious (E).nes
+Zanac (U).nes
