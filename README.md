@@ -1,5 +1,6 @@
 # Xevious KIT based on Elecrow's ESP-PLAY / KIT di Xevious basato ull'ESP-PLAY della Elecrow  
 
+<img width="736" height="902" alt="xevious" src="https://github.com/user-attachments/assets/a4e265ef-6326-4476-adaf-43e025b46a0d" />
 
 
 ## 📘 Description / Descrizione
