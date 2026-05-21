@@ -1,11 +1,13 @@
-# Xevious KIT based on Elecrow's ESP-PLAY / KIT di Xevious basato ull'ESP-PLAY della Elecrow  
+# Xevious KIT based on Elecrow's ESP-PLAY / KIT di Xevious basato sull'ESP-PLAY della Elecrow  
 
 <img width="736" height="902" alt="xevious" src="https://github.com/user-attachments/assets/a4e265ef-6326-4476-adaf-43e025b46a0d" />
 
 
 ## 📘 Description / Descrizione
 
-In the related video, I take you through the process of building a mini portable console from a kit. The author's original idea was to create a device capable of running a small, very limited NES emulator, but I decided to customize it and give it a unique character. I designed and built an enclosure inspired by Space Invaders, with a design reminiscent of the famous arcade game, and I didn't stop at aesthetics: with the help of Salvatore (MatixVision), I developed open source code for the Space Invaders game, transforming the console into something that is not just an emulator, but a small personal experience of retro-gaming and creativity.  
+Let’s bring the legend of Xevious to a pocket-sized format! 
+Thanks to Marco Prunca’s work, we can all build an ESP32-S3-based Mini Arcade with enhanced audio and a 3D-printed case inspired by the original Namco cabinet.
+We’ll cover hardware assembly, configuration in the Arduino IDE, and how to load ROMs into flash memory using LittleFS. A complete project combining electronics, 3D printing, and pure retrogaming! And not just Xevious!
 
 Portiamo il mito di Xevious in formato tascabile! 
 Grazie al lavoro di Marco Prunca, tutti noi potremo assemblare un Mini Arcade basato su ESP32-S3, con audio potenziato e un case stampato in 3D ispirato al cabinato originale Namco.
